@@ -1,2 +1,2 @@
 # mahesh
-mahesh repo
+mahesh repo for git commands demonstration
